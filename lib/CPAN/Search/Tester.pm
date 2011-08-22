@@ -13,15 +13,15 @@ use WWW::Mechanize;
 
 =head1 NAME
 
-CPAN::Testers::Search - Interface to search CPAN Testers.
+CPAN::Testers::Search - Interface to search CPAN module tester.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 Readonly my $URL => 'http://stats.cpantesters.org/cpanmail.html';
 
 =head1 DESCRIPTION

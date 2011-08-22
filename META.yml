@@ -1,5 +1,5 @@
 ---
-abstract: 'Interface to search CPAN Testers.'
+abstract: 'Interface to search CPAN module tester.'
 author:
   - 'Mohammad S Anwar <mohammad.anwar@yahoo.com>'
 build_requires:
@@ -21,7 +21,7 @@ name: CPAN-Search-Tester
 provides:
   CPAN::Search::Tester:
     file: lib/CPAN/Search/Tester.pm
-    version: 0.01
+    version: 0.02
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+version: 0.02
