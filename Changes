@@ -1,5 +1,8 @@
 Revision history for CPAN-Search-Tester
 
+0.03    Sun Mar 02 21:47:00 2014
+        - Corrected module name in the pod section "Name".
+
 0.02    Mon Aug 22 14:15:16 2011
         - Minor changes to pod.
 

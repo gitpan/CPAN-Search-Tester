@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.68.
+signed via the Module::Signature module, version 0.73.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -15,25 +15,26 @@ not run its Makefile.PL or Build.PL.
 Hash: SHA1
 
 SHA1 09af2c4a7bd943aefda9d81596ad0888713b6286 Build.PL
-SHA1 99cea0506ab2b5fdb21a09235350b108f48a729c Changes
-SHA1 d89e1f62483a7a7a4c0786cfeb3078c803e5a6b7 MANIFEST
+SHA1 eb2f87e639e4208e0060496d5d09fcd7caa7bade Changes
+SHA1 d0da288ff944588848ddcc23af41be7c617e5445 MANIFEST
 SHA1 7d20e4e840781030202bb045d5ab81b3fd1b68b0 MANIFEST.SKIP
-SHA1 798462ed0d1939255d5e0f29fb93d304b0042dc5 META.yml
+SHA1 d58b22229c4a48191073c076c78879c4e5e2da45 META.json
+SHA1 10ef6dd0139782c2f6f4cf6113b32ca0146fd292 META.yml
 SHA1 22547a7eadbded34ff46d14e7745ec98d079b773 Makefile.PL
 SHA1 eca185c515008934cd1510956663b19176df6c03 README
-SHA1 a1d70daa7f2d602b174cfa11672ffc94c3cb0f69 lib/CPAN/Search/Tester.pm
+SHA1 ae98e23fc5e7d1c6e90b5e01d780a4c97116b43b lib/CPAN/Search/Tester.pm
 SHA1 4c5a98e15c54f0090bd0dc12afe01727f5126224 t/00-load.t
 SHA1 35cf53edaae7e8bc98bda0d71e32d1ec7a2f0b73 t/01-search.t
 SHA1 2b8ffb7e4f399af95d092743846ac8d438f2c53e t/manifest.t
 SHA1 0765c9ff0cc4319f415bb08d0053b7717a8284a2 t/pod.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v2.0.14 (MingW32)
+Version: GnuPG v1.4.11 (MingW32)
 
-iQEcBAEBAgAGBQJOUmVnAAoJEPYcXBXhRYOhjJEIAJmdqTrFqnEkXR/X1Cy7PRpJ
-g0OqKhCek+GHe1+2iCrDXkkCsOT469uiuSbQDCQ+zLWHNr3iS6DdhNAWVhRUeXbG
-P9MC+8T+Wc40D/c8UMzYmSupmjHHbEiodDOaIf0UKYJx9R7BWJq/vm1/zYuVxThp
-EC86CDdW7l0YvAmkGzKkDR2eZlt5p0dnPweuTBG+Owu5/L7gpUD80hOFrxQ7lrJp
-RZerrgJvbKWljVl4wAK17SBkNLuw82wNFqPl/wOmVSsfDPPR7JXfBFWUn+a5eVd0
-rlE/LUR6U1v+7WzYiSmSBSDqkQ/gFZ0kmOe+eHyhyvsmAkbJ+e9oZVfp/TYSww4=
-=4f3J
+iQEcBAEBAgAGBQJTE6ilAAoJENoXJXWo7C/pjWwH/1uG6txbeZfTgnruy2vFRqOy
+z/Y1L7pakBQbexihlIljDEDulbOe+c7QxUREZV7mYA+KAg9suroYc3nki8vr3Q/T
+3SPJarnD1cnt95+sbmP/co1Ypm4IYwsq09NJDZ4jAvn8l/jMkgSrBaz6aEIyyzUG
+WqiqwiQI5y6mL6CinCB0Ck9Bx2p7xewNdLBmWbssGlFb0s6HBdkXKD0nKZrRXwAT
+UjVgwYsqJNwOhd6c/heR1LoJ8xLA/5Z3eGnsP8BItYZaKq35swZ/taw8lhxmcGue
+2AjVPzpVDygUGY1BMe9kr6p4pmKKLnTZBQkxloYVyGyvEYLD48/H3ni9UfTY8zE=
+=5X8W
 -----END PGP SIGNATURE-----
